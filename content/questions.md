@@ -3,7 +3,6 @@
 ---
 <html>
 <div id="popup" class="popup">
-    <span id="popupCloseBtn" class="close">&times;</span>
     <div id="popupContent" class="popup-content"></div>
     <div id="popupbutton" style="text-align: center;">
     <button id="prevBtn" class="nav-btn">←</button>

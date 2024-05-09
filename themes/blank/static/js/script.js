@@ -2,7 +2,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const bubbles = document.querySelectorAll('.speech-bubble');
     const popup = document.getElementById('popup');
     const popupContent = document.getElementById('popupContent');
-    const closeBtn = document.getElementById('popupCloseBtn');
     const prevBtn = document.getElementById('prevBtn');
     const nextBtn = document.getElementById('nextBtn');
     let currentIndex = 0;
@@ -25,14 +24,6 @@ document.addEventListener('DOMContentLoaded', function() {
       const url = `${window.location.pathname}?question=${index}`;
       window.history.pushState({ question: index }, '', url);
     }
-  
-    // Close popup when the close button is clicked
-    closeBtn.addEventListener('click', function() {
-      popup.style.display = 'none';
-      // Update the URL to remove the question parameter
-      const url = window.location.pathname;
-      window.history.pushState({}, '', url);
-    });
   
     // Navigate to the previous question
     prevBtn.addEventListener('click', function() {
