@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   const colors = [
-    '#FD9729', '#FF63DE', '#30C825', '#BDB2FF', '#fffee0'
+    '#FD9729', '#FF63DE', '#30C825', '#BDB2FF', '#fffee0', '#ade6bb'
 ];
   document.addEventListener('DOMContentLoaded', function() {
     const speechBubbles = document.querySelectorAll('.speech-bubble');
