@@ -151,7 +151,7 @@ input[type="submit"]:hover {
 
 /* Adjusting the form width and centering it */
 form {
-    width: 600px;
+    max-width: 600px;
     margin: auto;
 }
 
