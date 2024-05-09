@@ -1,0 +1,10 @@
+baseURL = 'https://example.org/'
+languageCode = 'ko'
+title = '질문 있는 사람들'
+theme = 'blank'
+HUGO_VERSION = "0.124.1"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

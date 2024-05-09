@@ -1,0 +1,172 @@
+.title h1 {
+    font-family: "Gothic A1", sans-serif;
+    text-align: center;
+}
+
+.title  {
+    text-align: center;
+    display: block;
+}
+
+body {
+    font-family: "Gothic A1", sans-serif;
+    text-rendering: optimizeLegibility;
+    font-size: 100%;
+    margin: auto;
+    padding: 20px;
+    max-width: 820px;
+    text-align: left;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: keep-all;
+    line-height: 1.5;
+    background: #FBFBFB;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 720px;
+    margin: auto;
+}
+
+label {
+    display: block;
+}
+
+textarea {
+    width: 100%;
+    height: 50px;
+}
+
+footer, nav {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .speech-bubble-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.speech-bubble {
+    margin: 10px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+}
+
+.speech-bubble:focus {
+    box-shadow: 0 0 0 2px blue;
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0,0.4);
+}
+
+.popup-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.nav-btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 8px;
+    background-color: #f1f1f1;
+    border: none;
+    cursor: pointer;
+}
+
+form {
+    text-align: center;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.field {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #202124;
+    font-size: 18px;
+}
+
+input[type="text"], textarea {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #dfe1e5;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+input[type="submit"] {
+    background-color: gray;
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+input[type="submit"]:hover {
+    background-color: #30C825 ;
+}
+
+/* Adjusting the form width and centering it */
+form {
+    width: 600px;
+    margin: auto;
+}
+
+/* Styling the textarea to look more like a single-line input */
+textarea {
+    height: 34px; /* Adjust based on your preference */
+    resize: none; /* Prevent resizing */
+}
+
+/* Hide default outline for focused elements to mimic Google's style */
+input:focus, textarea:focus {
+    outline: none;
+    border-color: #30C825;
+}
+
+nav {
+    margin-top: 80px;
+}

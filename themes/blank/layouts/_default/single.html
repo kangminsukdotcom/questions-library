@@ -1,0 +1,13 @@
+	{{ partial "nav.html" . }}
+	{{ partial "header" . }}
+	<main>
+		<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+		<script src="{{ "js/script.js" | relURL }}"></script>
+		<script src="{{ "js/likes.js" | relURL }}"></script>
+		<article>
+			<h1>{{ .Title }}</h1>
+			<div>
+				{{ .Content }}
+			</div>
+		</article>
+	</main>

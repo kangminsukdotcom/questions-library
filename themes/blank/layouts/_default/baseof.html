@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "ko" }}">
+<head>
+    <!-- ... other head elements ... -->
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+    {{ partial "nav.html" . }}
+    {{ partial "header" . }}
+    {{ partial "form.html" . }}
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    <script src="{{ "js/script.js" | relURL }}"></script>
+	<script type="module" src="{{ "js/likes.js" | relURL }}"></script>
+</body>
+</html>
