@@ -177,3 +177,7 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+button.tinylytics_kudos {
+    font-size: 15px;
+}
