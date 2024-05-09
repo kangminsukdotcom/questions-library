@@ -84,15 +84,17 @@ footer, nav {
 }
 
 .close {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
+    float:right;
+    color: black;
+    font-size: 50px;
     font-weight: bold;
+    margin-right: 50px;
+    margin-top: 100px;
 }
 
 .close:hover,
 .close:focus {
-    color: black;
+    color: blue;
     text-decoration: none;
     cursor: pointer;
 }
