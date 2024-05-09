@@ -8,7 +8,7 @@
     <div id="popupbutton" style="text-align: center;">
     <button id="prevBtn" class="nav-btn">←</button>
     <button id="nextBtn" class="nav-btn">→</button>
-    <button class="tinylytics_kudos"></button>
+    <button class="tinylytics_kudos" data-path="/the-path/to/your-post" ></button>
     </div>
 </div>
 
