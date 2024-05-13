@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family: "Gothic A1", sans-serif;
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
     text-rendering: optimizeLegibility;
     font-size: 100%;
     margin: auto;
@@ -169,4 +169,9 @@ button.tinylytics_kudos {
 
 button.rsvp {
     font-size: 15px;
+    background-color: #30C825;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }

@@ -16,6 +16,8 @@
 <small>*행사별 자세한 내용은 아래 버튼을 눌러 확인하세요.</small>
 
 <button id="Button" class="rsvp">신청하기</button>
+
+<small>*온라인 출판사 작은배 <a href="https://jagunbae.com">jagunbae.com</a>*</small>
 <script>
      document.getElementById('Button').onclick = function() {
         window.location.href = 'https://www.example.com';
