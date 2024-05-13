@@ -169,9 +169,20 @@ button.tinylytics_kudos {
 
 button.rsvp {
     font-size: 15px;
-    background-color: #30C825;
     font-weight: 500;
     margin-left: auto;
     margin-right: auto;
     display: block;
+    background-color: gray;
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button.rsvp:hover {
+    background-color:#30C825;;
 }
