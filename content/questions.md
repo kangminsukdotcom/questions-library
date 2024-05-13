@@ -11,16 +11,9 @@
 </div>
 
 <div class="speech-bubble-container">
-    <div class="speech-bubble" data-index="0">재미있는 일이 많이 생겼으면 좋겠습니다. 테스트 입니다. 이런 질문이 있습니다. 그렇습니다 네네네.</div>
-    <div class="speech-bubble" data-index="1">Question 2</div>
-    <div class="speech-bubble" data-index="2">Question 3</div>
-    <div class="speech-bubble" data-index="2">Question 3</div>
-    <div class="speech-bubble" data-index="2">Question 3</div>
-    <div class="speech-bubble" data-index="0">Question 1</div>
-    <div class="speech-bubble" data-index="1">Question 2</div>
-    <div class="speech-bubble" data-index="2">Question 3</div>
-    <div class="speech-bubble" data-index="2">Question 3</div>
-    <div class="speech-bubble" data-index="2">Question 3</div>
+    <div class="speech-bubble" data-index="0">오늘 점심 뭐먹지?</div>
+    <div class="speech-bubble" data-index="1">좋은 책은 어디서 추천받을 수 있을까요?</div>
+    <div class="speech-bubble" data-index="2">일을 잘 하고 싶은데, 방법을 모르겠어요. 회사 밖에서 동료를 찾으려면 어디로 가야 하나요?</div>
     <!-- Add more questions as needed -->
 </div>
 </html>
