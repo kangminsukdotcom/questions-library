@@ -84,6 +84,13 @@ footer, nav {
     margin-top: 25%;
 }
 
+@media only screen and (max-width: 768px) {
+    .popup {
+        width: 80%;
+        margin-top: 50%;
+    }
+}
+
 .nav-btn {
     display: inline-block;
     margin: 10px;
