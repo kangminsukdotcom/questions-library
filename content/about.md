@@ -18,8 +18,9 @@
 <button id="Button" class="rsvp">신청하기</button>
 
 <small>*온라인 출판사 작은배 <a href="https://jagunbae.com">jagunbae.com</a>*</small>
+
 <script>
-     document.getElementById('Button').onclick = function() {
-        window.location.href = 'https://jejusotong.kr/bbs/board.php?bo_table=2_1_1_1&wr_id=134';
-    };
+document.getElementById('Button').onclick = function() {
+    window.open('https://jejusotong.kr/bbs/board.php?bo_table=2_1_1_1&wr_id=134', '_blank');
+};
 </script>
