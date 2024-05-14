@@ -57,6 +57,11 @@ footer, nav {
     border-radius: 10px;
     cursor: pointer;
     outline: none;
+    transition: transform 0.3s ease;
+}
+
+.speech-bubble:hover {
+        transform: scale(1.05);
 }
 
 .speech-bubble:focus {
