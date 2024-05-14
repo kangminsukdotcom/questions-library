@@ -87,6 +87,7 @@ footer, nav {
     border: 1px solid #888;
     width: 80%;
     margin-top: 25%;
+    max-width: 720px;
 }
 
 .nav-btn {
