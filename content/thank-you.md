@@ -2,10 +2,11 @@
 
 ---
 
-# 감사합니다!
+![leonardo dicaprio as gatsby](https://mataroa.blog/images/7d248e5d.gif)
 
-![강단과 소신](https://mataroa.blog/images/91a3fc9e.jpeg)
+질문하는 당신을 위하여!
 
+<small>*제출하신 질문은 24시간 이내에 반영됩니다.</small>
 <style>
     body {
         text-align: center !important;
