@@ -15,7 +15,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
 <script>
-   var duration = 15 * 1000;
+   var duration = 10 * 1000;
 var animationEnd = Date.now() + duration;
 var defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };
 
