@@ -20,7 +20,7 @@
     <div class="speech-bubble" data-index="6">불안을 어떻게 떨쳐내야 할까요?</div>
     <div class="speech-bubble" data-index="7">생각을 요목조목 잘 정리해서 보여주고 싶은데 어떻게 연습해야 할까요?</div>
     <div class="speech-bubble" data-index="8">질문을 잘하고 싶어요. 어떤 방법이 있을까요?</div>
-    <div class="speech-bubble" data-index="9">배고픔을 참는 법.. 궁금해요</div>
+    <div class="speech-bubble" data-index="9">배고픔을 참는 법.. 궁금해요.</div>
     <!-- Add more questions as needed -->
 </div>
 </html>
