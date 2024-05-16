@@ -2,13 +2,6 @@
 
 ---
 <html>
-<div id="popup" class="popup">
-    <div id="popupContent" class="popup-content"></div>
-    <div id="popupbutton" style="text-align: center;">
-    <button id="prevBtn" class="nav-btn">←</button>
-    <button id="nextBtn" class="nav-btn">→</button>
-    </div>
-</div>
 
 <div class="speech-bubble-container">
     <div class="speech-bubble" data-index="0">오늘 점심 뭐 먹지?</div>
