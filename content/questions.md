@@ -14,6 +14,9 @@
     <div class="speech-bubble" data-index="7">생각을 요목조목 잘 정리해서 보여주고 싶은데 어떻게 연습해야 할까요?</div>
     <div class="speech-bubble" data-index="8">질문을 잘하고 싶어요. 어떤 방법이 있을까요?</div>
     <div class="speech-bubble" data-index="9">배고픔을 참는 법.. 궁금해요.</div>
+    <div class="speech-bubble" data-index="10">행복이란 무엇일까요?</div>
+    <div class="speech-bubble" data-index="11">꼬리에 꼬리를 무는 질문은 어떻게 해결할 수 있을까?</div>
+    <div class="speech-bubble" data-index="12">맛있는 식당은 어떻게 고르나요?</div>
     <!-- Add more questions as needed -->
 </div>
 </html>
