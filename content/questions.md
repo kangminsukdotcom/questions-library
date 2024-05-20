@@ -17,6 +17,7 @@
     <div class="speech-bubble" data-index="10">행복이란 무엇일까요?</div>
     <div class="speech-bubble" data-index="11">꼬리에 꼬리를 무는 질문은 어떻게 해결할 수 있을까?</div>
     <div class="speech-bubble" data-index="12">맛있는 식당은 어떻게 고르나요?</div>
+    <div class="speech-bubble" data-index="13">좋아하는 일과 오랫동안 공존하려면 어떻게 해야 할까? 지치지 않고 오래오래 행복하게 일하고 싶어요.</div>
     <!-- Add more questions as needed -->
 </div>
 </html>
