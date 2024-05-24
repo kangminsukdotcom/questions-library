@@ -21,6 +21,7 @@
     <div class="speech-bubble" data-index="14">불안하지 않으려면 어떻게 해야 할까요?</div>
     <div class="speech-bubble" data-index="15">어떻게 하면 육지사람이 제주도에서 재미있게 살면서 정착할 수 있을까요?</div>
     <div class="speech-bubble" data-index="16">건강한 삶은 어떻게 만들어갈 수 있을까요?</div>
+    <div class="speech-bubble" data-index="17">제주에서 남은 하루를 어떻게 보내면 좋을까요?(여행자)</div>
     <!-- Add more questions as needed -->
 </div>
 </html>
