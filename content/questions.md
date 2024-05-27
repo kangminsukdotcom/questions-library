@@ -24,6 +24,7 @@
     <div class="speech-bubble" data-index="17">제주에서 남은 하루를 어떻게 보내면 좋을까요?(여행자)</div>
     <div class="speech-bubble" data-index="17">아침을 어떻게 시작하시나요?</div>
     <div class="speech-bubble" data-index="18">나에게 지금 당장 필요한 행동은 무엇일까?</div>
+    <div class="speech-bubble" data-index="19">어떻게 하면 커뮤니티를 잘 운영할 수 있을까요?</div>
     <!-- Add more questions as needed -->
 </div>
 </html>
