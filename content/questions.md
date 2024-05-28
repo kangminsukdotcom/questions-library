@@ -25,6 +25,7 @@
     <div class="speech-bubble" data-index="17">아침을 어떻게 시작하시나요?</div>
     <div class="speech-bubble" data-index="18">나에게 지금 당장 필요한 행동은 무엇일까?</div>
     <div class="speech-bubble" data-index="19">어떻게 하면 커뮤니티를 잘 운영할 수 있을까요?</div>
+    <div class="speech-bubble" data-index="20">곧 4박 5일간의 행복했던 제주 여행이 끝나. 목요일부터 회사로 돌아가야 하는데, 어떻게 하면 스트레스 덜 받고 다시 적응할 수 있을까?</div>
     <!-- Add more questions as needed -->
 </div>
 </html>
