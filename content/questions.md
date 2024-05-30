@@ -28,6 +28,7 @@
     <div class="speech-bubble" data-index="20">곧 4박 5일간의 행복했던 제주 여행이 끝나. 목요일부터 회사로 돌아가야 하는데, 어떻게 하면 스트레스 덜 받고 다시 적응할 수 있을까?</div>
     <div class="speech-bubble" data-index="21">좋아하는 걸 오래도록 즐기려면 어떻게 해야 할까?</div>
     <div class="speech-bubble" data-index="22">진짜 내가 하고 싶은 일이라는 걸 언제 어떻게 깨닫게 될까요? 운명처럼 다가올 아이템을 기다리고 있는 건 너무 이상을 꿈꾸고 있는 게 아닐지 걱정돼요.</div>
+    <div class="speech-bubble" data-index="23">새로운 물건을 사지 않고 잘 사는 방법은 무엇일까?</div>
     <!-- Add more questions as needed -->
 </div>
 </html>
