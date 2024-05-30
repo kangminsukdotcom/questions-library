@@ -21,6 +21,6 @@
 
 <script>
 document.getElementById('Button').onclick = function() {
-    window.open('https://jejusotong.kr/bbs/board.php?bo_table=2_1_1_1&wr_id=134', '_blank');
+    window.open('https://jejusotong.kr/bbs/board.php?bo_table=2_1_1_1&wr_id=135', '_blank');
 };
 </script>
