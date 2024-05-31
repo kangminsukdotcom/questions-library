@@ -31,6 +31,7 @@
     <div class="speech-bubble" data-index="23">새로운 물건을 사지 않고 잘 사는 방법은 무엇일까?</div>
     <div class="speech-bubble" data-index="24">내일의 일정이 뭐야?</div>
     <div class="speech-bubble" data-index="25">너는 뭘 좋아해?</div>
+    <div class="speech-bubble" data-index="26">제주에서 영어캠프를 준비하고 있는데 사람들이 오지 않아요. 어떻게 해야 할까요?</div>
     <!-- Add more questions as needed -->
 </div>
 </html>
