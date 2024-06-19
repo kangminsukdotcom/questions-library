@@ -35,5 +35,7 @@
     <div class="speech-bubble" data-index="27">어떻게 하면 제가 좋아하는 사람이랑 사이좋게 잘 지낼 수 있을까요? 정말 좋아하고 잘해주고 싶은데, 제 이기심이 튀어나올 때가 있어서 힘들어요.</div>
     <div class="speech-bubble" data-index="28">아무것도 하기 싫을 때, 아무것도 안 해도 될까요?</div>
     <div class="speech-bubble" data-index="29">작은 습관은 어떻게 만들죠?</div>
+    <div class="speech-bubble" data-index="30">멈춰도 괜찮다면 얼마나 멈추는 것까지 정말 괜찮을 걸까?</div>
+    <div class="speech-bubble" data-index="31">몸과 마음의 컨디션이 다를 때 어떻게 회복할 수 있을까요?</div>
 </div>
 </html>
