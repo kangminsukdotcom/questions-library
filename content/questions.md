@@ -37,5 +37,6 @@
     <div class="speech-bubble" data-index="29">작은 습관은 어떻게 만들죠?</div>
     <div class="speech-bubble" data-index="30">멈춰도 괜찮다면 얼마나 멈추는 것까지 정말 괜찮을 걸까?</div>
     <div class="speech-bubble" data-index="31">몸과 마음의 컨디션이 다를 때 어떻게 회복할 수 있을까요?</div>
+    <div class="speech-bubble" data-index="32">멈췄을 때 느끼는 불안감은 어떻게 해소할 수 있나요?</div>
 </div>
 </html>
