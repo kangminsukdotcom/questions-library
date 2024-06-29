@@ -39,5 +39,6 @@
     <div class="speech-bubble" data-index="31">몸과 마음의 컨디션이 다를 때 어떻게 회복할 수 있을까요?</div>
     <div class="speech-bubble" data-index="32">멈췄을 때 느끼는 불안감은 어떻게 해소할 수 있나요?</div>
     <div class="speech-bubble" data-index="33">왜 벌어도 벌어도 돈이 안 모일까?</div>
+    <div class="speech-bubble" data-index="34">어떻게 하면 서울로 가는 비행기가 결항될까?</div>
 </div>
 </html>
