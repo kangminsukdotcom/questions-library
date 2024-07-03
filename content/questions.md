@@ -40,5 +40,9 @@
     <div class="speech-bubble" data-index="32">멈췄을 때 느끼는 불안감은 어떻게 해소할 수 있나요?</div>
     <div class="speech-bubble" data-index="33">왜 벌어도 벌어도 돈이 안 모일까?</div>
     <div class="speech-bubble" data-index="34">어떻게 하면 서울로 가는 비행기가 결항될까?</div>
+    <div class="speech-bubble" data-index="35">하루는 길고 지루한 것 같은데 왜 일년은 쏜살같이 지나갈까요?</div>
+    <div class="speech-bubble" data-index="36">10살 딸 아이와 어떻게 하면 친해질 수 있을까요?</div>
+    <div class="speech-bubble" data-index="37">이직의 기준은?</div>
+    <div class="speech-bubble" data-index="38">과거, 현재, 미래 중에서 가장 필요 없는 것을 고르라면 무엇인가?</div>
 </div>
 </html>
