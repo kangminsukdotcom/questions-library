@@ -45,5 +45,6 @@
     <div class="speech-bubble" data-index="37">이직의 기준은?</div>
     <div class="speech-bubble" data-index="38">과거, 현재, 미래 중에서 가장 필요 없는 것을 고르라면 무엇인가?</div>
     <div class="speech-bubble" data-index="39">왜 사람은 다툼을 멈추지 않을까? 왜 다른 사람의 정신과 육체를 해하며 살까?</div>
+    <div class="speech-bubble" data-index="40">돈을 어떻게 하면 잘 모을 수 있을까요?</div>
 </div>
 </html>
