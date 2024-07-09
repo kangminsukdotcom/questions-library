@@ -47,5 +47,6 @@
     <div class="speech-bubble" data-index="39">왜 사람은 다툼을 멈추지 않을까? 왜 다른 사람의 정신과 육체를 해하며 살까?</div>
     <div class="speech-bubble" data-index="40">돈을 어떻게 하면 잘 모을 수 있을까요?</div>
     <div class="speech-bubble" data-index="41">박사 졸업은 언제 할 수 있을까요?</div>
+    <div class="speech-bubble" data-index="42">떠나야 할지, 남아야 할지 고민입니다. 떠나야 할 때는 어떻게 알 수 있을까요?</div>
 </div>
 </html>
