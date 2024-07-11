@@ -49,5 +49,7 @@
     <div class="speech-bubble" data-index="41">박사 졸업은 언제 할 수 있을까요?</div>
     <div class="speech-bubble" data-index="42">떠나야 할지, 남아야 할지 고민입니다. 떠나야 할 때는 어떻게 알 수 있을까요?</div>
     <div class="speech-bubble" data-index="43">마음의 조급함으로부터 벗어나는 법</div>
+    <div class="speech-bubble" data-index="44">나다운 내가 되려면 어떻게 해야 할까요?</div>
+    <div class="speech-bubble" data-index="45">아이에게 부모는 어떤 존재일까요?</div>
 </div>
 </html>
