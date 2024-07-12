@@ -51,5 +51,6 @@
     <div class="speech-bubble" data-index="43">마음의 조급함으로부터 벗어나는 법</div>
     <div class="speech-bubble" data-index="44">나다운 내가 되려면 어떻게 해야 할까요?</div>
     <div class="speech-bubble" data-index="45">아이에게 부모는 어떤 존재일까요?</div>
+    <div class="speech-bubble" data-index="46">퇴사하고 뭐 해 먹고 살까요?</div>
 </div>
 </html>
