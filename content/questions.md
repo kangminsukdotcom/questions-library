@@ -53,5 +53,6 @@
     <div class="speech-bubble" data-index="45">아이에게 부모는 어떤 존재일까요?</div>
     <div class="speech-bubble" data-index="46">퇴사하고 뭐 해 먹고 살까요?</div>
     <div class="speech-bubble" data-index="47">왜 담배꽁초를 길바닥에 버리는 걸까요?</div>
+    <div class="speech-bubble" data-index="48">가족을 사랑하는 방법에는 뭐가 있을까요?</div>
 </div>
 </html>
