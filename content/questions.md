@@ -56,5 +56,6 @@
     <div class="speech-bubble" data-index="48">가족을 사랑하는 방법에는 뭐가 있을까요?</div>
     <div class="speech-bubble" data-index="49">피곤함을 날리려면...?</div>
     <div class="speech-bubble" data-index="50">오늘 점심 뭐 먹을까요?</div>
+    <div class="speech-bubble" data-index="51">난 어떤 일에 의욕을 느낄까?</div>
 </div>
 </html>
