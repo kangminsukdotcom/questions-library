@@ -57,5 +57,6 @@
     <div class="speech-bubble" data-index="49">피곤함을 날리려면...?</div>
     <div class="speech-bubble" data-index="50">오늘 점심 뭐 먹을까요?</div>
     <div class="speech-bubble" data-index="51">난 어떤 일에 의욕을 느낄까?</div>
+    <div class="speech-bubble" data-index="52">어떻게하면 우아하게 늙을 수 있을까?</div>
 </div>
 </html>
