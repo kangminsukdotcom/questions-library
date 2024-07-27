@@ -3,7 +3,7 @@
 
 마음속에 질문을 품고 주체적으로 살아가는 사람들. 그들의 일터로 직접 찾아가서 이야기 나누며 내가 가진 질문을 깊게 이해하는 모임입니다.
 
-총 3회차로 진행되며, 회차마다 질문이 다릅니다. 제주소통협력센터와 함께 모임을 기획하고 운영하는 출판사 작은배가 나누고 싶은 질문 3가지를 골랐습니다.
+총 3회차로 진행되며, 회차마다 질문이 다릅니다. 제주소통협력센터와 함께 모임을 기획하고 운영하는 작은배가 나누고 싶은 질문 3가지를 골랐습니다.
 
 ---
 
@@ -17,7 +17,7 @@
 
 <button id="Button" class="rsvp">신청하기</button>
 
-<small>*온라인 출판사 작은배 <a href="https://jagunbae.com">jagunbae.com</a>*</small>
+<small>*작은배 <a href="https://jagunbae.com">jagunbae.com</a>*</small>
 
 <script>
 document.getElementById('Button').onclick = function() {
