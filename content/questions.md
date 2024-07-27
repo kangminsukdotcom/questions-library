@@ -59,5 +59,6 @@
     <div class="speech-bubble" data-index="51">난 어떤 일에 의욕을 느낄까?</div>
     <div class="speech-bubble" data-index="52">어떻게하면 우아하게 늙을 수 있을까?</div>
     <div class="speech-bubble" data-index="54">안락함의 지속성은 없다고 생각하는데, 지속성이 없다고 절망하지 않을 강한 마음가짐은 어떻게 만들어야 할까요?</div>
+    <div class="speech-bubble" data-index="55">장마는 언제 그칠까?</div>
 </div>
 </html>
